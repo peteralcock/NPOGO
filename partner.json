@@ -1,0 +1,166 @@
+{
+    "http://www.nycourts.gov": {
+        "url": "http://www.nycourts.gov",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.southerntierconnect.org": {
+        "url": "http://www.southerntierconnect.org",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.wamc.org": {
+        "url": "http://www.wamc.org",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.americanbar.org": {
+        "url": "http://www.americanbar.org",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.securews.bsneny.com": {
+        "url": "http://www.securews.bsneny.com",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.olmsteadrights.org": {
+        "url": "http://www.olmsteadrights.org",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.drny.org": {
+        "url": "http://www.drny.org",
+        "name": [],
+        "phone": [],
+        "address": [
+            {
+                "full_address": "44 Exchange Blvd, Suite 110 Rochester, New York 14614",
+                "full_street": "44 Exchange Blvd, Suite 110",
+                "street_number": "44",
+                "street_name": "Exchange",
+                "street_type": "Blvd",
+                "route_id": null,
+                "post_direction": null,
+                "floor": null,
+                "building_id": null,
+                "occupancy": "Suite 110",
+                "city": "Rochester",
+                "region1": "New York",
+                "postal_code": "14614",
+                "country_id": "US"
+            },
+            {
+                "full_address": "25 Chapel Street, Suite 1005 Brooklyn, New York 11201",
+                "full_street": "25 Chapel Street, Suite 1005",
+                "street_number": "25",
+                "street_name": "Chapel",
+                "street_type": "Street",
+                "route_id": null,
+                "post_direction": null,
+                "floor": null,
+                "building_id": null,
+                "occupancy": "Suite 1005",
+                "city": "Brooklyn",
+                "region1": "New York",
+                "postal_code": "11201",
+                "country_id": "US"
+            },
+            {
+                "full_address": "and Conditions OFFICES 725 Broadway, Suite 450 Albany, New York 12207",
+                "full_street": "and Conditions OFFICES 725 Broadway, Suite 450",
+                "street_number": "and",
+                "street_name": "Conditions OFFICES 725",
+                "street_type": "Broadway",
+                "route_id": null,
+                "post_direction": null,
+                "floor": null,
+                "building_id": null,
+                "occupancy": "Suite 450",
+                "city": "Albany",
+                "region1": "New York",
+                "postal_code": "12207",
+                "country_id": "US"
+            }
+        ]
+    },
+    "http://www.primecareny.org": {
+        "url": "http://www.primecareny.org",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.medisked.com": {
+        "url": "http://www.medisked.com",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.unitedwaygcr.org": {
+        "url": "http://www.unitedwaygcr.org",
+        "name": [],
+        "phone": [],
+        "address": []
+    },
+    "http://www.tricountycare.org": {
+        "url": "http://www.tricountycare.org",
+        "name": [],
+        "phone": [],
+        "address": [
+            {
+                "full_address": "369 E 148 St. Bronx, NY 10455",
+                "full_street": "369 E 148 St.",
+                "street_number": "369",
+                "street_name": "E 148",
+                "street_type": "St.",
+                "route_id": null,
+                "post_direction": null,
+                "floor": null,
+                "building_id": null,
+                "occupancy": null,
+                "city": "Bronx",
+                "region1": "NY",
+                "postal_code": "10455",
+                "country_id": "US"
+            },
+            {
+                "full_address": "95-16 Pitkin AvenueOzone Park, NY 11417",
+                "full_street": "95-16 Pitkin Avenue",
+                "street_number": "95-16",
+                "street_name": "Pitkin",
+                "street_type": "Avenue",
+                "route_id": null,
+                "post_direction": null,
+                "floor": null,
+                "building_id": null,
+                "occupancy": null,
+                "city": "Ozone Park",
+                "region1": "NY",
+                "postal_code": "11417",
+                "country_id": "US"
+            },
+            {
+                "full_address": "12203 Brooklyn Location 829 East 15th St. Brooklyn, NY 11230",
+                "full_street": "12203 Brooklyn Location 829 East 15th St.",
+                "street_number": "12203",
+                "street_name": "Brooklyn Location 829 East 15th",
+                "street_type": "St.",
+                "route_id": null,
+                "post_direction": null,
+                "floor": null,
+                "building_id": null,
+                "occupancy": null,
+                "city": "Brooklyn",
+                "region1": "NY",
+                "postal_code": "11230",
+                "country_id": "US"
+            }
+        ]
+    }
+}
