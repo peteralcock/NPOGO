@@ -1,7 +1,8 @@
 # NPOGO
 It's not Ai. It's NPOGO.
 
-### Introduction
+![NPOGO](data/splash.jpeg?raw=true "NPOGO")
+
 NPOGO is a high-speed web-crawler designed to scrape partner contact and organiational information from non-profit websites. It allows for the scheduling of recurring crawls and handles errors, network timeouts, and anti-bot software automatically. 
 
 Please crawl responsibley.
